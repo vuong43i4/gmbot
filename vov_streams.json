@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-10-28",
+  "stations": {
+    "vov1": {
+      "name": "VOV1 - Đài Tiếng nói Việt Nam",
+      "url": "https://audio-lss.vov.vn/han/live/vov1/audio/manifest.m3u8",
+      "description": "Kênh tin tức chính, phát 24/7"
+    },
+    "vov2": {
+      "name": "VOV2 - Kinh tế - Đô thị",
+      "url": "https://audio-lss.vov.vn/han/live/vov2/audio/manifest.m3u8",
+      "description": "Tin kinh tế, văn hóa"
+    },
+    "vov3": {
+      "name": "VOV3 - Âm nhạc",
+      "url": "https://audio-lss.vov.vn/han/live/vov3/audio/manifest.m3u8",
+      "description": "Nhạc trẻ, giải trí"
+    },
+    "vov4": {
+      "name": "VOV4 - Bắc Bộ",
+      "url": "https://audio-lss.vov.vn/han/live/vov4/audio/manifest.m3u8",
+      "description": "Tin địa phương Bắc Bộ"
+    },
+    "vov5": {
+      "name": "VOV5 - Nam Bộ",
+      "url": "https://audio-lss.vov.vn/han/live/vov5/audio/manifest.m3u8",
+      "description": "Tin địa phương Nam Bộ"
+    },
+    "vov_hanoi": {
+      "name": "VOV Hà Nội",
+      "url": "https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8",
+      "description": "Kênh địa phương Hà Nội"
+    },
+    "vov_giaothong_hn": {
+      "name": "VOV Giao Thông Hà Nội",
+      "url": "https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w918501360.m3u8",
+      "description": "Thông tin giao thông Hà Nội"
+    },
+    "vov_giaothong_hcm": {
+      "name": "VOV Giao Thông HCM",
+      "url": "https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1953258355.m3u8",
+      "description": "Thông tin giao thông TP.HCM"
+    }
+  }
+}
